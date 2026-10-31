@@ -146,6 +146,63 @@
   color: var(--vp-c-text-3);
 }
 
+/* Checklist */
+.checklist-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 16px 0 24px;
+}
+
+.checklist-button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.checklist-button.primary {
+  background: var(--vp-c-brand-3);
+  border-color: var(--vp-c-brand-3);
+  color: #fff;
+}
+
+.checklist-progress {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc ul.task-list {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.vp-doc li.task-item,
+.vp-doc li.task-item > p {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 8px 0;
+}
+
+.vp-doc .task-box {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  margin-top: 4px;
+  accent-color: var(--vp-c-brand-3);
+  cursor: pointer;
+}
+
+.vp-doc .task-box:checked + .task-label {
+  color: var(--vp-c-text-3);
+  text-decoration: line-through;
+}
+
 /* Right-to-left details the default theme leaves pointing the wrong way */
 [dir='rtl'] .VPLocalNavOutlineDropdown .vpi-chevron-right {
   transform: rotate(180deg);
@@ -184,6 +241,7 @@
   .VPDocFooter,
   .VPFooter,
   .VPSkipLink,
+  .checklist-tools,
   .page-meta-note a {
     display: none !important;
   }
@@ -212,9 +270,28 @@
     font-size: 0.85em;
   }
 
+  .vp-doc li.task-item,
   .vp-doc h2,
   .vp-doc h3 {
     break-inside: avoid;
     break-after: avoid;
+  }
+
+  .vp-doc .task-box {
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border: 1.5px solid #222;
+    border-radius: 3px;
+    background: #fff;
+  }
+
+  .vp-doc .task-box:checked {
+    background: #222;
+  }
+
+  .vp-doc .task-box:checked + .task-label {
+    color: #111;
+    text-decoration: none;
   }
 }

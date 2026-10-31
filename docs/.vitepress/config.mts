@@ -2,6 +2,7 @@ import path from 'node:path'
 import { defineConfig, type DefaultTheme } from 'vitepress'
 import footnote from 'markdown-it-footnote'
 import { sidebar, sourceCount } from './topics'
+import { taskLists } from './task-lists'
 import { normalizeTerm } from './normalize.mjs'
 
 const repo = 'https://github.com/Ifazawezk/living-in-qatar'
@@ -41,6 +42,7 @@ export default defineConfig({
   markdown: {
     config(md) {
       md.use(footnote)
+      md.use(taskLists)
       // Show [1] every time a source is cited, not [1:2], [1:3] and so on
       md.renderer.rules.footnote_caption = (tokens, idx) => `[${tokens[idx].meta.id + 1}]`
       // A plain arrow instead of the default emoji-style back link
@@ -69,6 +71,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Guide', link: '/guide/', activeMatch: '^/guide/' },
+          { text: 'First 30 days', link: '/checklist' },
         ],
         sidebar: {
           '/guide/': [{ text: 'All topics', link: '/guide/' }, ...sidebar('en')]
@@ -95,6 +98,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'الدليل', link: '/ar/guide/', activeMatch: '^/ar/guide/' },
+          { text: 'أول 30 يومًا', link: '/ar/checklist' },
         ],
         sidebar: {
           '/ar/guide/': [{ text: 'كل المواضيع', link: '/ar/guide/' }, ...sidebar('ar')]

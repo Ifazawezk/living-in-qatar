@@ -15,6 +15,9 @@ hero:
       text: ابدأ القراءة
       link: /ar/guide/
     - theme: alt
+      text: قائمة أول 30 يومًا
+      link: /ar/checklist
+    - theme: alt
       text: English
       link: /
 

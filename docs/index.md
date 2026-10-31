@@ -15,6 +15,9 @@ hero:
       text: Start reading
       link: /guide/
     - theme: alt
+      text: First 30 days checklist
+      link: /checklist
+    - theme: alt
       text: العربية
       link: /ar/
 

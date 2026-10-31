@@ -7,6 +7,7 @@ import '@fontsource/ibm-plex-sans-arabic/700.css'
 import './custom.css'
 import PageMeta from './components/PageMeta.vue'
 import TopicList from './components/TopicList.vue'
+import ChecklistTools from './components/ChecklistTools.vue'
 
 export default {
   extends: DefaultTheme,
@@ -17,5 +18,6 @@ export default {
   },
   enhanceApp({ app }) {
     app.component('TopicList', TopicList)
+    app.component('ChecklistTools', ChecklistTools)
   }
 } satisfies Theme
