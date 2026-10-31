@@ -18,6 +18,8 @@ hero:
 features:
   - title: Just arrived
     details: Entry visas, the residence permit and QID, and the Metrash app.
+    link: /guide/residence-permit-and-qid
+    linkText: Residence permit and QID
   - title: Working or looking for work
     details: Contracts, wages, leave, end of service pay and changing employers.
   - title: Bringing your family
