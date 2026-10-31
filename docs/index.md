@@ -53,7 +53,7 @@ This guide puts the practical steps in one place and links every fact to the off
 - **Checked by a script.** A link checker visits every source and flags pages that disappear, move or change. Sites that turn away scripts are listed so someone can check them in a browser.
 - **Open to corrections.** Every page has an edit link. If something is out of date, send a correction with the official page that shows the right information.
 
-Read [how we source things](./sourcing).
+Read [how we source things](./sourcing) or see the [topics we still need help with](./help-wanted).
 
 ::: warning Not legal advice
 This is a community guide, not a government service. Rules, fees and procedures change. Always confirm on the official page linked in the sources before you act.

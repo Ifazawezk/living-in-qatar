@@ -73,6 +73,7 @@ export default defineConfig({
           { text: 'Guide', link: '/guide/', activeMatch: '^/guide/' },
           { text: 'First 30 days', link: '/checklist' },
           { text: 'How we source', link: '/sourcing' },
+          { text: 'Help wanted', link: '/help-wanted' }
         ],
         sidebar: {
           '/guide/': [{ text: 'All topics', link: '/guide/' }, ...sidebar('en')]
@@ -101,6 +102,7 @@ export default defineConfig({
           { text: 'الدليل', link: '/ar/guide/', activeMatch: '^/ar/guide/' },
           { text: 'أول 30 يومًا', link: '/ar/checklist' },
           { text: 'كيف نوثّق', link: '/ar/sourcing' },
+          { text: 'نحتاج مساعدتك', link: '/ar/help-wanted' }
         ],
         sidebar: {
           '/ar/guide/': [{ text: 'كل المواضيع', link: '/ar/guide/' }, ...sidebar('ar')]

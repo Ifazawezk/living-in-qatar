@@ -37,7 +37,7 @@ Fees change more often than anything else, so we usually link to the official fe
 
 ## What we leave out
 
-- Anything we could not confirm on an official page. Those items go on the help wanted list instead.
+- Anything we could not confirm on an official page. Those items go on the [help wanted](./help-wanted) list instead.
 - Rent and grocery prices, rankings of schools or neighbourhoods, and opinions about employers. There is no official source for these, and they go stale quickly.
 
 ## Not legal advice
