@@ -1,0 +1,25 @@
+{
+  "name": "living-in-qatar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A practical, sourced guide to living in Qatar, in English and Arabic.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Mohaned Elhagar",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "markdown-it-footnote": "^4.0.0",
+    "vitepress": "^1.6.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ifazawezk/living-in-qatar.git"
+  }
+}

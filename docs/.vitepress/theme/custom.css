@@ -1,0 +1,199 @@
+/* Colours: the maroon of the Qatari flag, lighter in dark mode for contrast */
+:root {
+  --vp-c-brand-1: #8a1538;
+  --vp-c-brand-2: #a3203f;
+  --vp-c-brand-3: #8a1538;
+  --vp-c-brand-soft: rgba(138, 21, 56, 0.1);
+  --vp-home-hero-name-color: #8a1538;
+  --liq-card-bg: var(--vp-c-bg-soft);
+}
+
+.dark {
+  --vp-c-brand-1: #f2a7b9;
+  --vp-c-brand-2: #e88ba2;
+  --vp-c-brand-3: #a3203f;
+  --vp-c-brand-soft: rgba(242, 167, 185, 0.14);
+  --vp-home-hero-name-color: #f2a7b9;
+}
+
+/* Page header: last checked date and the number of sources */
+.page-meta {
+  margin: 0 0 28px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  background: var(--vp-c-brand-soft);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.page-meta p {
+  margin: 0;
+}
+
+.page-meta-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px !important;
+}
+
+.pill {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  font-size: 13px;
+}
+
+.page-meta-note a {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+/* Footnotes: the list of official sources at the end of each page */
+.vp-doc .footnote-ref a {
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0 1px;
+}
+
+.vp-doc .footnotes-sep {
+  display: none;
+}
+
+.vp-doc .footnotes {
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.vp-doc .footnotes a {
+  overflow-wrap: anywhere;
+}
+
+.vp-doc .footnote-item:target {
+  background: var(--vp-c-brand-soft);
+  border-radius: 6px;
+}
+
+.vp-doc .footnote-backref {
+  text-decoration: none;
+  margin-inline-start: 4px;
+}
+
+/* Topic cards on the guide index */
+.topic-group-title {
+  border-top: none !important;
+  margin-top: 32px !important;
+  padding-top: 0 !important;
+}
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.vp-doc a.topic-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--liq-card-bg);
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+  transition: border-color 0.2s;
+}
+
+.vp-doc a.topic-card:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.topic-title {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.topic-desc {
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+
+.topic-meta {
+  margin-top: auto;
+  font-size: 12px;
+  color: var(--vp-c-text-3);
+}
+
+/* Home page */
+.VPHome .vp-doc h2 {
+  border-top: none;
+}
+
+@media (max-width: 640px) {
+  .page-meta {
+    margin-bottom: 20px;
+  }
+}
+
+/* Printing: just the content, in black on white */
+@media print {
+  :root,
+  .dark {
+    --vp-c-bg: #fff;
+    --vp-c-bg-soft: #fff;
+    --vp-c-text-1: #111;
+    --vp-c-text-2: #333;
+    --vp-c-text-3: #555;
+    --vp-c-divider: #bbb;
+    --vp-c-brand-1: #111;
+    --vp-c-brand-soft: transparent;
+    color-scheme: light;
+  }
+
+  .VPNav,
+  .VPLocalNav,
+  .VPSidebar,
+  .VPDocAside,
+  .VPDocFooter,
+  .VPFooter,
+  .VPSkipLink,
+  .page-meta-note a {
+    display: none !important;
+  }
+
+  .VPContent,
+  .VPContent.has-sidebar,
+  .VPDoc,
+  .VPDoc .container,
+  .VPDoc .content,
+  .VPDoc .content-container {
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .page-meta {
+    border: 1px solid #bbb;
+  }
+
+  .vp-doc a {
+    color: inherit;
+  }
+
+  .vp-doc .footnotes a[href^='http']::after {
+    content: ' ' attr(href);
+    font-size: 0.85em;
+  }
+
+  .vp-doc h2,
+  .vp-doc h3 {
+    break-inside: avoid;
+    break-after: avoid;
+  }
+}
