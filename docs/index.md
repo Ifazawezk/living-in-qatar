@@ -28,6 +28,8 @@ features:
     linkText: Family visas
   - title: Renting a home
     details: Leases, rental disputes, and getting electricity and water connected.
+    link: /guide/housing-and-utilities
+    linkText: Housing and renting
 ---
 
 ## Why this guide exists
