@@ -51,7 +51,7 @@ Some customers can pay in advance instead of receiving bills. It is only for pro
 
 Qatar has a Rental Disputes Settlement Committee. The government services catalogue lists a Ministry of Justice service for attesting a power of attorney to act before it.[^sharek-rental-poa]
 
-See also: [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](./metrash.md).
+See also: [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](./metrash.md), [Cost of living basics](./cost-of-living.md).
 
 ## Sources
 

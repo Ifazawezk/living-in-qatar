@@ -22,6 +22,8 @@ features:
     linkText: Residence permit and QID
   - title: Working or looking for work
     details: Contracts, wages, leave, end of service pay and changing employers.
+    link: /guide/work-and-labour-rights
+    linkText: Work and labour rights
   - title: Bringing your family
     details: Family residence and visit visas, and finding a school for your children.
     link: /guide/family-visas
