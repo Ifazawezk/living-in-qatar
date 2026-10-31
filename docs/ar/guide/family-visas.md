@@ -84,7 +84,7 @@ lastChecked: 2026-10
 - أحضر شهادة ميلاد المولود الأصلية المصدقة وجواز سفره الساري.[^moi-newborn-visa]
 - تُنجز هذه الخدمة في منفذ الدخول لدى جوازات المنافذ.[^moi-newborn-visa]
 
-انظر أيضًا: [الوصول والتأشيرات](./arriving-and-visas.md)، [رخصة الإقامة والبطاقة الشخصية](./residence-permit-and-qid.md)، [مطراش](./metrash.md).
+انظر أيضًا: [الوصول والتأشيرات](./arriving-and-visas.md)، [رخصة الإقامة والبطاقة الشخصية](./residence-permit-and-qid.md)، [مطراش](./metrash.md)، [التعليم](./education.md).
 
 ## المصادر
 
