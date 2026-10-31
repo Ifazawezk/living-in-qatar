@@ -1,0 +1,52 @@
+# Domains accepted as sources in the guide.
+#
+# A link counts as official when its host is one of these domains or a
+# subdomain of one (portal.moi.gov.qa matches gov.qa).
+#
+# To add a domain, open a pull request that explains who runs the site and
+# why it is the authority for the facts it backs up.
+
+# Government of Qatar: Hukoomi, ministries, councils and authorities
+gov.qa
+
+# Al Meezan, the official legal portal (law texts)
+almeezan.qa
+
+# Hamad Medical Corporation
+hamad.qa
+
+# Kahramaa, the electricity and water utility
+km.qa
+
+# Mowasalat, the state transport company that runs Karwa
+mowasalat.com
+karwa.qa
+
+# Qatar Rail (Doha Metro and Lusail Tram)
+qr.com.qa
+
+# Hayya, the official entry visa platform
+hayya.qa
+
+# Qatar Tourism
+visitqatar.com
+visitqatar.qa
+
+# National Planning Council (official statistics)
+npc.qa
+
+# Hamad International Airport
+dohahamadairport.com
+
+# Qatar Post
+qatarpost.qa
+
+# National Human Rights Committee
+nhrc-qa.org
+
+# Qatar Red Crescent Society
+qrcs.org.qa
+
+# Licensed telecom operators, only for facts about their own services
+ooredoo.qa
+vodafone.qa

@@ -72,6 +72,7 @@ export default defineConfig({
         nav: [
           { text: 'Guide', link: '/guide/', activeMatch: '^/guide/' },
           { text: 'First 30 days', link: '/checklist' },
+          { text: 'How we source', link: '/sourcing' },
         ],
         sidebar: {
           '/guide/': [{ text: 'All topics', link: '/guide/' }, ...sidebar('en')]
@@ -99,6 +100,7 @@ export default defineConfig({
         nav: [
           { text: 'الدليل', link: '/ar/guide/', activeMatch: '^/ar/guide/' },
           { text: 'أول 30 يومًا', link: '/ar/checklist' },
+          { text: 'كيف نوثّق', link: '/ar/sourcing' },
         ],
         sidebar: {
           '/ar/guide/': [{ text: 'كل المواضيع', link: '/ar/guide/' }, ...sidebar('ar')]
