@@ -1,10 +1,30 @@
 import path from 'node:path'
-import { defineConfig } from 'vitepress'
+import { defineConfig, type DefaultTheme } from 'vitepress'
 import footnote from 'markdown-it-footnote'
 import { sidebar, sourceCount } from './topics'
+import { normalizeTerm } from './normalize.mjs'
 
 const repo = 'https://github.com/Ifazawezk/living-in-qatar'
 const site = 'https://ifazawezk.github.io/living-in-qatar/'
+
+const searchTranslations: DefaultTheme.LocalSearchOptions['translations'] = {
+  button: { buttonText: 'بحث', buttonAriaLabel: 'بحث' },
+  modal: {
+    displayDetails: 'عرض التفاصيل',
+    resetButtonTitle: 'مسح البحث',
+    backButtonTitle: 'إغلاق البحث',
+    noResultsText: 'لا توجد نتائج عن',
+    footer: {
+      selectText: 'فتح',
+      selectKeyAriaLabel: 'إدخال',
+      navigateText: 'تنقل',
+      navigateUpKeyAriaLabel: 'سهم لأعلى',
+      navigateDownKeyAriaLabel: 'سهم لأسفل',
+      closeText: 'إغلاق',
+      closeKeyAriaLabel: 'هروب'
+    }
+  }
+}
 
 export default defineConfig({
   base: '/living-in-qatar/',
@@ -108,6 +128,16 @@ export default defineConfig({
 
   themeConfig: {
     logo: { src: '/favicon.svg', alt: '' },
-    socialLinks: [{ icon: 'github', link: repo }]
+    socialLinks: [{ icon: 'github', link: repo }],
+    search: {
+      provider: 'local',
+      options: {
+        locales: { ar: { translations: searchTranslations } },
+        miniSearch: {
+          options: { processTerm: normalizeTerm },
+          searchOptions: { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
+        }
+      }
+    }
   }
 })
