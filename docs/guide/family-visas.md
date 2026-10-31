@@ -84,7 +84,7 @@ MOI has a free visa for babies arriving with their mother at the border, for use
 - Bring the original attested birth certificate and the baby's valid passport.[^moi-newborn-visa]
 - This is handled at the port of entry by Border Passports.[^moi-newborn-visa]
 
-See also: [Arriving and visas](./arriving-and-visas.md), [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](./metrash.md).
+See also: [Arriving and visas](./arriving-and-visas.md), [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](./metrash.md), [Education](./education.md).
 
 ## Sources
 

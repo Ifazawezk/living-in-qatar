@@ -47,7 +47,7 @@ Your family physician is the first step for PHCC services, and that doctor can r
 
 ## Emergencies and urgent care
 
-For a life-threatening emergency, call 999 or go to the nearest HMC emergency department. The emergencies page lists them.[^hmc-emergency]
+For a life-threatening emergency, call 999 or go to the nearest HMC emergency department. The [emergencies page](./emergencies.md) lists them.[^hmc-emergency]
 
 For something urgent but not life-threatening, HMC points to PHCC's Urgent Care Units, which are open 24 hours and need no appointment.[^hmc-emergency] PHCC lists the centres that have one.[^phcc-urgent-care]
 
@@ -77,7 +77,7 @@ Expatriates applying to live and work in Qatar go through a medical fitness exam
 
 You can check your result on the Medical Commission page, for exams done at the Medical Commission in Mesaimeer, the Red Crescent in Mesaimeer, Karwa on Industrial Road, Al Ahli Hospital, Al Emadi Hospital and Doha Clinic Hospital. Allow up to 72 hours.[^moph-medical-commission] The main building in Mesaimeer opens Sunday to Thursday, 7 am to 7 pm, and the phone number is 4467 9111.[^moph-medical-commission]
 
-See also: [Residence permit and QID](./residence-permit-and-qid.md), [Arriving and visas](./arriving-and-visas.md).
+See also: [Emergencies and important numbers](./emergencies.md), [Residence permit and QID](./residence-permit-and-qid.md), [Arriving and visas](./arriving-and-visas.md).
 
 ## Sources
 

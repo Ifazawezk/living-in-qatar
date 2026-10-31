@@ -32,7 +32,7 @@ Kahramaa's tariff page has a calculator for electricity and water, so you can wo
 
 - Visit Qatar says you can use the Doha Metro all day for a maximum of QAR 6.[^vq-metro]
 - You buy a travel card at station vending machines, and some retailers sell them too.[^vq-metro]
-- Mowasalat runs the Karwa buses. Use its Karwa Journey Planner app to plan a trip, and see Transport for more.[^mowasalat-bus]
+- Mowasalat runs the Karwa buses. Use its Karwa Journey Planner app to plan a trip, and see [Transport](./transport.md) for more.[^mowasalat-bus]
 
 ## Health card
 
@@ -44,7 +44,7 @@ Replacing a lost card costs a non-Qatari QR 100 if the card is still valid, or Q
 
 The National Human Rights Committee's 2021 booklet gives the minimum wage as QAR 1,000 a month, plus at least QAR 500 for housing and QAR 300 for food if your employer does not provide them. Check the current amounts with the Ministry of Labour.[^nhrc-booklet]
 
-See also: [Housing and renting](./housing-and-utilities.md), [Work and labour rights](./work-and-labour-rights.md), [Health](./health.md).
+See also: [Housing and renting](./housing-and-utilities.md), [Work and labour rights](./work-and-labour-rights.md), [Transport](./transport.md), [Health](./health.md).
 
 ## Sources
 

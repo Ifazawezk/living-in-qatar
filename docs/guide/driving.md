@@ -80,7 +80,7 @@ The Traffic Reports page lets you look up a road accident report or a vehicle re
 
 The General Directorate of Traffic says the current traffic law was issued in 2007, and its page has a Traffic Signs section.[^moi-traffic-dept]
 
-See also: [Metrash](./metrash.md), [Residence permit and QID](./residence-permit-and-qid.md).
+See also: [Metrash](./metrash.md), [Residence permit and QID](./residence-permit-and-qid.md), [Transport](./transport.md), [Emergencies](./emergencies.md).
 
 ## Sources
 
