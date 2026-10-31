@@ -24,6 +24,8 @@ features:
     details: Contracts, wages, leave, end of service pay and changing employers.
   - title: Bringing your family
     details: Family residence and visit visas, and finding a school for your children.
+    link: /guide/family-visas
+    linkText: Family visas
   - title: Renting a home
     details: Leases, rental disputes, and getting electricity and water connected.
 ---

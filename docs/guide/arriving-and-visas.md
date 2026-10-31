@@ -25,7 +25,7 @@ The Ministry of Interior (MOI) says visitor visa rules can change without notice
 
 ### Visas issued in advance
 
-- These are visas you receive before you travel and present at the arrival port. MOI's list includes business visas and family (personal visit) visas, which have their own page: Family visas.[^moi-visas-in-advance]
+- These are visas you receive before you travel and present at the arrival port. MOI's list includes business visas and family (personal visit) visas, which have their own page: [Family visas](./family-visas.md).[^moi-visas-in-advance]
 
 ### Coming to live or work
 
@@ -55,7 +55,7 @@ The Ministry of Interior (MOI) says visitor visa rules can change without notice
 - The Visa Services page also has a Visa Extension / Fine Payment option.[^moi-visa-inquiry]
 - You can look up overstay violations through the Overstay Violations Inquiry service.[^moi-overstay]
 
-See also: [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](./metrash.md).
+See also: [Residence permit and QID](./residence-permit-and-qid.md), [Family visas](./family-visas.md), [Metrash](./metrash.md).
 
 ## Sources
 

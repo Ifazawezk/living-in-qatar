@@ -65,7 +65,7 @@ A 2017 government report said Metrash2 offered more than 120 e-services in six l
 - MOI calls Metrash an informative service and takes no responsibility if a message is late or does not arrive, so keep track of your own expiry dates.[^moi-metrash-individual]
 - You can check document expiry dates yourself on the Other Inquiries page.[^moi-other-inquiries]
 
-See also: [Residence permit and QID](./residence-permit-and-qid.md).
+See also: [Residence permit and QID](./residence-permit-and-qid.md), [Family visas](./family-visas.md), [Driving licence and traffic rules](./driving.md).
 
 ## Sources
 
