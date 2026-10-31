@@ -1,0 +1,358 @@
+{
+  "https://fees2.moi.gov.qa/moipay/inquiry/violation": {
+    "title": "دفع المخالفات المرورية",
+    "final_url": "https://fees2.moi.gov.qa/moipay/inquiry/violation"
+  },
+  "https://gta.gov.qa/en/investors": {
+    "title": "investors | General Tax Authority",
+    "final_url": "https://gta.gov.qa/en/investors"
+  },
+  "https://gta.gov.qa/en/taxes-info": {
+    "title": "taxes-info | General Tax Authority",
+    "final_url": "https://gta.gov.qa/en/taxes-info"
+  },
+  "https://hayya.qa/en": {
+    "title": "Hayya Portal",
+    "final_url": "https://hayya.qa/en"
+  },
+  "https://hayya.qa/en/visa-inquiry": {
+    "title": "Hayya Portal",
+    "final_url": "https://hayya.qa/en/visa-inquiry"
+  },
+  "https://km.qa/Pages/call-center.aspx?IsDlg=1": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://km.qa/Pages/call-center.aspx?IsDlg=1"
+  },
+  "https://mot.gov.qa/en/news/minister-transport-inaugurates-turquoise-line-lusail-tram-network": {
+    "title": "Minister of Transport inaugurates the Turquoise Line of Lusail Tram network | Ministry of Transport",
+    "final_url": "https://mot.gov.qa/en/news/minister-transport-inaugurates-turquoise-line-lusail-tram-network"
+  },
+  "https://portal.moi.gov.qa/UNCCPCJDoha/English/Emergency_Services.html": {
+    "title": ".:: Emergency Services (999-992)",
+    "final_url": "https://portal.moi.gov.qa/UNCCPCJDoha/English/Emergency_Services.html"
+  },
+  "https://portal.moi.gov.qa/qatarvisas/": {
+    "title": "Qatar Visit Visas",
+    "final_url": "https://portal.moi.gov.qa/qatarvisas/"
+  },
+  "https://portal.moi.gov.qa/qatarvisasar/index.html": {
+    "title": "سمات(تأشيرات) الدخول للزيارات",
+    "final_url": "https://portal.moi.gov.qa/qatarvisasar/index.html"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z0/fY5BC4JAEEZ_jUeZzUPgUSKKggwMqr3E5I4y5c7aOpT9-yQ6d_sefDweWDiBFXxyi8pBsJv4bOeXXW6KWV6abbnIl9Mstodyvc-qIoMKNmD_XyYH3x4PW4CtgyiNCqdX7Tu-pjxhFNKUJDEDpo56jOpJtA7esypRYloSitih8yw8aPy2hUZ-jazva4iO4oDiaOxRI6MSNg1yHBLjWoX-vjp-AE6OsDQ!/": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/ganationalborderexpatriateaffairs/!ut/p/z0/fY5BC4JAEEZ_jUeZzUPgUSKKggwMqr3E5I4y5c7aOpT9-yQ6d_sefDweWDiBFXxyi8pBsJv4bOeXXW6KWV6abbnIl9Mstodyvc-qIoMKNmD_XyYH3x4PW4CtgyiNCqdX7Tu-pjxhFNKUJDEDpo56jOpJtA7esypRYloSitih8yw8aPy2hUZ-jazva4iO4oDiaOxRI6MSNg1yHBLjWoX-vjp-AE6OsDQ!/"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic/!ut/p/z0/fY7LDoIwEEW_hiWZgk-WxBgSTWThuxtTy0BG6QBlon6-jR_g7pzk5uSChgtoNi9qjFDHpg1-1fPbLlN5kpVqWx7ygOvidFxNl6nKUtjDBvT_SWjQYxh0Dtp2LPgRuLyta-keU1DPKDFypEYTV9gbLw5ZbOcciSBGqkFGb1pTOWIaxf--dXWAuiYbKZssZhMF_bM4fwEQv_A-/": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic/!ut/p/z0/fY7LDoIwEEW_hiWZgk-WxBgSTWThuxtTy0BG6QBlon6-jR_g7pzk5uSChgtoNi9qjFDHpg1-1fPbLlN5kpVqWx7ygOvidFxNl6nKUtjDBvT_SWjQYxh0Dtp2LPgRuLyta-keU1DPKDFypEYTV9gbLw5ZbOcciSBGqkFGb1pTOWIaxf--dXWAuiYbKZssZhMF_bM4fwEQv_A-/"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic/!ut/p/z1/jY_NDoIwEIQfqdOCpBxrNfwUbQytwF5MT4ZE0YPx-SXEq5U9zSbfzGQYsZ7RFN7jNbzGxxRu8z9QdjnmUDy3MNapWe6Ls9epFMgF6xagUjItObiRJSRU62q3tVoAnNEaP36cwjp_BKB4fMdoQepyVyFpYYomS-YFzUELfQLk5gvEJv4red697zFWH0zJlfc!/?1dmy=&urile=wcm:path:/wcmlib-internet-en/sa-departmentcommittee/generaladministrationoftraffic/minor+accident": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/departmentcommittees/gatraffic/!ut/p/z1/jY_NDoIwEIQfqdOCpBxrNfwUbQytwF5MT4ZE0YPx-SXEq5U9zSbfzGQYsZ7RFN7jNbzGxxRu8z9QdjnmUDy3MNapWe6Ls9epFMgF6xagUjItObiRJSRU62q3tVoAnNEaP36cwjp_BKB4fMdoQepyVyFpYYomS-YFzUELfQLk5gvEJv4red697zFWH0zJlfc!/?1dmy=&urile=wcm:path:/wcmlib-internet-en/sa-departmentcommittee/generaladministrationoftraffic/minor+accident"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/infocenter/emerservicedeaf": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/infocenter/emerservicedeaf"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/exitservices": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/exitservices"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/metrash": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/metrash"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/metrash/individualmetrash": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/metrash/individualmetrash"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/others": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/others"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/overstay": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/overstay"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/residencypermits": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/residencypermits"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/trafficservices": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/trafficservices"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/trafficservices/trafficreports": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/trafficservices/trafficreports"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/inquiries/visaservices"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bentry%2Ffamily%2Bresidence%2Bvisa": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bentry%2Ffamily%2Bresidence%2Bvisa"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bentry%2Fvisa0125": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bentry%2Fvisa0125"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bvisit%2Fgggg": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fnon-work%2Bvisit%2Fgggg"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fegama1": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fegama1"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fiuytro": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fiuytro"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fxcdsa": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fxcdsa"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fyttyrttt": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fresidence%2Bvisas%2Fyttyrttt"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Freturn%2Bvisas%2Fvisa0127": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Freturn%2Bvisas%2Fvisa0127"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fw456": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fvisa%2Bcomplaints%2Fw456"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fwork%2Bentry%2Fqr%25240": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationofnationalitybordersandexpatriateaffairs%2Fservices%2Fwork%2Bentry%2Fqr%25240"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationoftraffic%2Fservices%2Flicensing%2Band%2Bexamination%2Bof%2Bdrivers%2Fserw": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?1dmy&page=pg.moi.internet.departments.services.detail&uri=wcm%3Apath%3Awcmlib-internet-en%2Fsa-departmentcommittee%2Fgeneraladministrationoftraffic%2Fservices%2Flicensing%2Band%2Bexamination%2Bof%2Bdrivers%2Fserw"
+  },
+  "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?docId=a96cc4f1-23a6-4693-ae9e-179555192762&viewType=CATEGORY": {
+    "title": "MOI Qatar - Ministry of interior Qatar",
+    "final_url": "https://portal.moi.gov.qa/wps/portal/MOIInternet/services/otherservices/?docId=a96cc4f1-23a6-4693-ae9e-179555192762&viewType=CATEGORY"
+  },
+  "https://portal.moi.gov.qa/wps/wcm/connect/wcmlib-internet-ar/sa-moinews/d978dff7-9fa3-4d39-a83f-cb3c3044dc52": {
+    "title": "'); popupWin.document.write('الاعلان عن تعديل بعض ضوابط وإجراءات استقدام عائلات المقيمين للإقامة أو الزيارة'); popupWin.document.write('",
+    "final_url": "https://portal.moi.gov.qa/wps/wcm/connect/wcmlib-internet-ar/sa-moinews/d978dff7-9fa3-4d39-a83f-cb3c3044dc52"
+  },
+  "https://visitqatar.com/intl-en/about-qatar/traditions/ramadan": {
+    "title": "Ramadan traditions in Qatar | Visit Qatar",
+    "final_url": "https://visitqatar.com/intl-en/about-qatar/traditions/ramadan"
+  },
+  "https://visitqatar.com/intl-en/plan-your-trip/getting-around": {
+    "title": "Getting around in Qatar | Ultimate Guide | Visit Qatar",
+    "final_url": "https://visitqatar.com/intl-en/plan-your-trip/getting-around"
+  },
+  "https://visitqatar.com/intl-en/plan-your-trip/getting-around/doha-metro": {
+    "title": "Doha Metro Guide: Tickets, Map & Service Hours | Visit Qatar",
+    "final_url": "https://visitqatar.com/intl-en/plan-your-trip/getting-around/doha-metro"
+  },
+  "https://www.cra.gov.qa/en/Services/Telecommunications/Licensing/Licensees": {
+    "title": "Licensees",
+    "final_url": "https://www.cra.gov.qa/en/Services/Telecommunications/Licensing/Licensees"
+  },
+  "https://www.cra.gov.qa/en/services/lodge-a-complaint": {
+    "title": "Lodge a Complaint",
+    "final_url": "https://www.cra.gov.qa/en/services/lodge-a-complaint"
+  },
+  "https://www.edu.gov.qa/ar/News/Details/14514600": {
+    "title": "وزارة التربية والتعليم تعتمد التقويم الأكاديمي الجديد للأعوام الأكاديمية (2025–2026، 2026–2027، 2027–2028)",
+    "final_url": "https://www.edu.gov.qa/ar/News/Details/14514600"
+  },
+  "https://www.edu.gov.qa/en/Content/AnnualCalendar": {
+    "title": "Annual Calendar",
+    "final_url": "https://www.edu.gov.qa/en/Content/AnnualCalendar"
+  },
+  "https://www.edu.gov.qa/en/Content/CompulsoryEducationVisas": {
+    "title": "Compulsory Education (Visas)",
+    "final_url": "https://www.edu.gov.qa/en/Content/CompulsoryEducationVisas"
+  },
+  "https://www.edu.gov.qa/en/Content/Listofprivateschools": {
+    "title": "List of private schools and kindergartens",
+    "final_url": "https://www.edu.gov.qa/en/Content/Listofprivateschools"
+  },
+  "https://www.edu.gov.qa/en/Content/RegistrationPrivateSchool": {
+    "title": "Registration in Private School",
+    "final_url": "https://www.edu.gov.qa/en/Content/RegistrationPrivateSchool"
+  },
+  "https://www.edu.gov.qa/en/Content/RegistrationPublicShools": {
+    "title": "Registration in public Schools",
+    "final_url": "https://www.edu.gov.qa/en/Content/RegistrationPublicShools"
+  },
+  "https://www.edu.gov.qa/en/News/Details/17391000": {
+    "title": "Ministry of Education and Higher Education Issues Circular on Student Registration and Transfer Procedures for the 2026–2027 Academic Year",
+    "final_url": "https://www.edu.gov.qa/en/News/Details/17391000"
+  },
+  "https://www.edu.gov.qa/en/News/Details/18451800": {
+    "title": "Education Ministry Launches Private Schools and Kindergartens Fees Policy",
+    "final_url": "https://www.edu.gov.qa/en/News/Details/18451800"
+  },
+  "https://www.edu.gov.qa/en/News/Details/19063800": {
+    "title": "Education Ministry Announces the Completion of its Preparations for the New School Year",
+    "final_url": "https://www.edu.gov.qa/en/News/Details/19063800"
+  },
+  "https://www.km.qa/CustomerService/Pages/BillPayment.aspx": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/CustomerService/Pages/BillPayment.aspx"
+  },
+  "https://www.km.qa/CustomerService/Pages/MoveToNewPremises.aspx": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/CustomerService/Pages/MoveToNewPremises.aspx"
+  },
+  "https://www.km.qa/CustomerService/Pages/ServiceDetails.aspx?ItemID=28": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/CustomerService/Pages/ServiceDetails.aspx?ItemID=28"
+  },
+  "https://www.km.qa/CustomerService/Pages/Tariff.aspx": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/CustomerService/Pages/Tariff.aspx"
+  },
+  "https://www.km.qa/Pages/PrePaidService.aspx": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/Pages/PrePaidService.aspx"
+  },
+  "https://www.km.qa/Pages/contactus.aspx": {
+    "title": "Qatar General Electricity & water Corporation - المؤسسة العامة القطرية للكهرباء والماء",
+    "final_url": "https://www.km.qa/Pages/contactus.aspx"
+  },
+  "https://www.moph.gov.qa/english/OurServices/advancedsearch/Pages/servicesdetails.aspx?serviceId=182": {
+    "title": "Ministry of Public Health - Service Details",
+    "final_url": "https://www.moph.gov.qa/english/OurServices/advancedsearch/Pages/servicesdetails.aspx?serviceId=182"
+  },
+  "https://www.moph.gov.qa/english/OurServices/advancedsearch/Pages/servicesdetails.aspx?serviceId=51": {
+    "title": "Ministry of Public Health - Service Details",
+    "final_url": "https://www.moph.gov.qa/english/OurServices/advancedsearch/Pages/servicesdetails.aspx?serviceId=51"
+  },
+  "https://www.moph.gov.qa/english/OurServices/eservices/Pages/Medical-Commission.aspx": {
+    "title": "Ministry of Public Health - Medical Commission (MC)",
+    "final_url": "https://www.moph.gov.qa/english/OurServices/eservices/Pages/Medical-Commission.aspx"
+  },
+  "https://www.moph.gov.qa/english/departments/ministeroffice/hfid/Pages/FAQs.aspx": {
+    "title": "Ministry of Public Health - FAQs",
+    "final_url": "https://www.moph.gov.qa/english/departments/ministeroffice/hfid/Pages/FAQs.aspx"
+  },
+  "https://www.moph.gov.qa/english/departments/ministeroffice/hfid/Pages/Health-Insurance-Scheme.aspx": {
+    "title": "Ministry of Public Health - Mandatory Health Insurance Scheme",
+    "final_url": "https://www.moph.gov.qa/english/departments/ministeroffice/hfid/Pages/Health-Insurance-Scheme.aspx"
+  },
+  "https://www.mot.gov.qa/en/news/ministry-organizes-digital-government-services-awareness-workshop-11": {
+    "title": "The Ministry Organizes Digital Government Services Awareness Workshop (1.1) | Ministry of Transport",
+    "final_url": "https://www.mot.gov.qa/en/news/ministry-organizes-digital-government-services-awareness-workshop-11"
+  },
+  "https://www.mowasalat.com/": {
+    "title": "Mowasalat – The official website of Mowasalat Qatar",
+    "final_url": "https://www.mowasalat.com/"
+  },
+  "https://www.mowasalat.com/mowasalat/public-transportation/": {
+    "title": "Public Transportation – Mowasalat",
+    "final_url": "https://www.mowasalat.com/mowasalat/public-transportation/"
+  },
+  "https://www.mowasalat.com/our-service/public-bus-transportation/": {
+    "title": "Public Bus Transportation – Mowasalat",
+    "final_url": "https://www.mowasalat.com/our-service/public-bus-transportation/"
+  },
+  "https://www.mowasalat.com/our-service/taxi-limousine/": {
+    "title": "Karwa Taxi & Chauffeur Services – Mowasalat",
+    "final_url": "https://www.mowasalat.com/our-service/taxi-limousine/"
+  },
+  "https://www.nhrc-qa.org/": {
+    "title": "NHRC-Home",
+    "final_url": "https://www.nhrc-qa.org/"
+  },
+  "https://www.npc.qa/en/statistics/pages/news/07082026.aspx": {
+    "title": "Statistics Consumer Price Index (CPI) for June 2026",
+    "final_url": "https://www.npc.qa/en/statistics/pages/news/07082026.aspx"
+  },
+  "https://www.ooredoo.qa/web/en/general-terms-and-conditions-for-consumer-services/": {
+    "title": "General terms and conditions | Ooredoo Qatar",
+    "final_url": "https://www.ooredoo.qa/web/en/general-terms-and-conditions-for-consumer-services/"
+  },
+  "https://www.ooredoo.qa/web/en/postpaid-plans/": {
+    "title": "Ooredoo Postpaid Plans | Ooredoo Qatar",
+    "final_url": "https://www.ooredoo.qa/web/en/postpaid-plans/"
+  },
+  "https://www.ooredoo.qa/web/en/prepaid-plans/": {
+    "title": "Ooredoo Prepaid | Prepaid Plans | Ooredoo Qatar",
+    "final_url": "https://www.ooredoo.qa/web/en/prepaid-plans/"
+  },
+  "https://www.phcc.gov.qa/about-us/contact-us": {
+    "title": "Contact Us",
+    "final_url": "https://www.phcc.gov.qa/about-us/contact-us"
+  },
+  "https://www.phcc.gov.qa/health-centers/urgent-care": {
+    "title": "Urgent Care",
+    "final_url": "https://www.phcc.gov.qa/health-centers/urgent-care"
+  },
+  "https://www.phcc.gov.qa/patients-clients/eservice-guestpage/register-new-health-card": {
+    "title": "Register New Health Card",
+    "final_url": "https://www.phcc.gov.qa/patients-clients/eservice-guestpage/register-new-health-card"
+  },
+  "https://www.phcc.gov.qa/patients-clients/health-card": {
+    "title": "Health Card",
+    "final_url": "https://www.phcc.gov.qa/patients-clients/health-card"
+  },
+  "https://www.qcb.gov.qa/en/News/Pages/ramadan2026.aspx": {
+    "title": "Working Hours During Ramadan",
+    "final_url": "https://www.qcb.gov.qa/en/News/Pages/ramadan2026.aspx"
+  },
+  "https://www.qcb.gov.qa/en/News/pages/16dec.aspx": {
+    "title": "Circular on the occasion of Qatar National Day 2024",
+    "final_url": "https://www.qcb.gov.qa/en/News/pages/16dec.aspx"
+  },
+  "https://www.qcb.gov.qa/en/Pages/Retail-payment-systems.aspx": {
+    "title": "Retail payment systems",
+    "final_url": "https://www.qcb.gov.qa/en/Pages/Retail-payment-systems.aspx"
+  },
+  "https://www.qcb.gov.qa/en/Supervision/pages/bankingsupervisiondepartmentsectors.aspx": {
+    "title": "Banking Supervision Department Sectors",
+    "final_url": "https://www.qcb.gov.qa/en/Supervision/pages/bankingsupervisiondepartmentsectors.aspx"
+  },
+  "https://www.qcb.gov.qa/en/Supervision/pages/licensingdepartment.aspx": {
+    "title": "Licensing Department",
+    "final_url": "https://www.qcb.gov.qa/en/Supervision/pages/licensingdepartment.aspx"
+  },
+  "https://www.qcb.gov.qa/en/news/pages/12feb24.aspx": {
+    "title": "National Sport Holiday Announcement",
+    "final_url": "https://www.qcb.gov.qa/en/news/pages/12feb24.aspx"
+  },
+  "https://www.qcb.gov.qa/en/pages/customer-protection-department.aspx": {
+    "title": "Customer Protection Department",
+    "final_url": "https://www.qcb.gov.qa/en/pages/customer-protection-department.aspx"
+  },
+  "https://www.qcb.gov.qa/en/pages/the-national-awareness-campaign-for-information-security.aspx": {
+    "title": "The National Awareness Campaign for Information Security",
+    "final_url": "https://www.qcb.gov.qa/en/pages/the-national-awareness-campaign-for-information-security.aspx"
+  },
+  "https://www.sharek.gov.qa/en/articles/ministry-of-justice/%D8%AA%D9%88%D8%AB%D9%8A%D9%82-%D8%AA%D9%88%D9%83%D9%8A%D9%84-%D8%B1%D8%B3%D9%85%D9%8A-%D8%AE%D8%A7%D8%B5-%D8%A3%D9%85%D8%A7%D9%85-%D9%84%D8%AC%D9%86%D8%A9-%D9%81%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/676aba9f9619431ce6aa998c": {
+    "title": "‎توثيق توكيل رسمي خاص أمام لجنة فض المنازعات الإيجارية | Sharek",
+    "final_url": "https://www.sharek.gov.qa/en/articles/ministry-of-justice/%D8%AA%D9%88%D8%AB%D9%8A%D9%82-%D8%AA%D9%88%D9%83%D9%8A%D9%84-%D8%B1%D8%B3%D9%85%D9%8A-%D8%AE%D8%A7%D8%B5-%D8%A3%D9%85%D8%A7%D9%85-%D9%84%D8%AC%D9%86%D8%A9-%D9%81%D8%B6-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/676aba9f9619431ce6aa998c"
+  },
+  "https://www.vodafone.qa/en/faqs/GigaHome": {
+    "title": "Vodafone Qatar | Vodafone Home FAQ | vodafone.qa",
+    "final_url": "https://www.vodafone.qa/en/faqs/GigaHome"
+  },
+  "https://www.vodafone.qa/en/help/faqs": {
+    "title": "Help & Frequently Asked Questions | Vodafone Qatar",
+    "final_url": "https://www.vodafone.qa/en/help/faqs"
+  },
+  "https://www.vodafone.qa/en/services/home/gigahome": {
+    "title": "Try Home Internet Free | WiFi in Every Room from 1 Gbps | Vodafone Qatar",
+    "final_url": "https://www.vodafone.qa/en/services/home/gigahome"
+  },
+  "https://www.vodafone.qa/instant-sim": {
+    "title": "Instant SIM",
+    "final_url": "https://www.vodafone.qa/instant-sim"
+  }
+}

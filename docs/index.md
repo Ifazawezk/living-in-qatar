@@ -50,6 +50,7 @@ This guide puts the practical steps in one place and links every fact to the off
 
 - **A footnote on every claim.** Each paragraph points to the exact official page, with the month it was last checked.
 - **Two languages, same sources.** The English and Arabic pages cite the same pages.
+- **Checked by a script.** A link checker visits every source and flags pages that disappear, move or change. Sites that turn away scripts are listed so someone can check them in a browser.
 - **Open to corrections.** Every page has an edit link. If something is out of date, send a correction with the official page that shows the right information.
 
 ::: warning Not legal advice
