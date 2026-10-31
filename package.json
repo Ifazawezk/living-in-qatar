@@ -12,6 +12,7 @@
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@fontsource/ibm-plex-sans-arabic": "^5.3.0",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4"
   },

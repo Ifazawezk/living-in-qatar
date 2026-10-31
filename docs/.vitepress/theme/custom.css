@@ -6,6 +6,7 @@
   --vp-c-brand-soft: rgba(138, 21, 56, 0.1);
   --vp-home-hero-name-color: #8a1538;
   --liq-card-bg: var(--vp-c-bg-soft);
+  --liq-arabic-font: 'IBM Plex Sans Arabic', 'Segoe UI', 'Noto Sans Arabic', Tahoma, sans-serif;
 }
 
 .dark {
@@ -14,6 +15,21 @@
   --vp-c-brand-3: #a3203f;
   --vp-c-brand-soft: rgba(242, 167, 185, 0.14);
   --vp-home-hero-name-color: #f2a7b9;
+}
+
+/* Arabic: a proper Arabic typeface and a little more line height */
+:root[lang='ar'] {
+  --vp-font-family-base: var(--liq-arabic-font);
+}
+
+:root[lang='ar'] .vp-doc {
+  line-height: 1.9;
+}
+
+:root[lang='ar'] .vp-doc h1,
+:root[lang='ar'] .vp-doc h2,
+:root[lang='ar'] .vp-doc h3 {
+  letter-spacing: 0;
 }
 
 /* Page header: last checked date and the number of sources */
@@ -128,6 +144,11 @@
   margin-top: auto;
   font-size: 12px;
   color: var(--vp-c-text-3);
+}
+
+/* Right-to-left details the default theme leaves pointing the wrong way */
+[dir='rtl'] .VPLocalNavOutlineDropdown .vpi-chevron-right {
+  transform: rotate(180deg);
 }
 
 /* Home page */

@@ -27,7 +27,8 @@ export default defineConfig({
       md.renderer.rules.footnote_anchor = (tokens, idx, _options, env, slf) => {
         let id = slf.rules.footnote_anchor_name!(tokens, idx, _options, env, slf)
         if (tokens[idx].meta.subId > 0) id += `:${tokens[idx].meta.subId}`
-        return ` <a href="#fnref${id}" class="footnote-backref" aria-label="Back to text">&#8593;</a>`
+        const label = env.relativePath?.startsWith('ar/') ? 'العودة إلى النص' : 'Back to text'
+        return ` <a href="#fnref${id}" class="footnote-backref" aria-label="${label}">&#8593;</a>`
       }
     }
   },
@@ -61,6 +62,45 @@ export default defineConfig({
           message:
             'Not legal advice. Always confirm on the official page linked in the sources. Content CC BY 4.0, code MIT.',
           copyright: 'Copyright 2026 Mohaned Elhagar and contributors'
+        }
+      }
+    },
+    ar: {
+      label: 'العربية',
+      lang: 'ar',
+      dir: 'rtl',
+      link: '/ar/',
+      title: 'العيش في قطر',
+      description: 'دليل عملي للمقيمين في قطر، كل معلومة فيه مربوطة بمصدرها الرسمي، بالعربية والإنجليزية.',
+      themeConfig: {
+        nav: [
+          { text: 'الدليل', link: '/ar/guide/', activeMatch: '^/ar/guide/' },
+        ],
+        sidebar: {
+          '/ar/guide/': [{ text: 'كل المواضيع', link: '/ar/guide/' }, ...sidebar('ar')]
+        },
+        editLink: {
+          pattern: `${repo}/edit/main/docs/:path`,
+          text: 'اقترح تصحيحًا على GitHub'
+        },
+        outline: { level: [2, 3], label: 'في هذه الصفحة' },
+        docFooter: { prev: 'السابق', next: 'التالي' },
+        darkModeSwitchLabel: 'المظهر',
+        lightModeSwitchTitle: 'التبديل إلى الوضع الفاتح',
+        darkModeSwitchTitle: 'التبديل إلى الوضع الداكن',
+        sidebarMenuLabel: 'القائمة',
+        returnToTopLabel: 'العودة إلى الأعلى',
+        langMenuLabel: 'تغيير اللغة',
+        notFound: {
+          title: 'الصفحة غير موجودة',
+          quote: 'ربما نُقلت هذه الصفحة أو تغيّر عنوانها.',
+          linkLabel: 'العودة إلى الصفحة الرئيسية',
+          linkText: 'الصفحة الرئيسية'
+        },
+        footer: {
+          message:
+            'هذا الدليل ليس استشارة قانونية. تأكد دائمًا من الصفحة الرسمية المذكورة في المصادر. المحتوى بترخيص CC BY 4.0 والشيفرة بترخيص MIT.',
+          copyright: 'حقوق النشر 2026 Mohaned Elhagar والمساهمون'
         }
       }
     }

@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: Start reading
       link: /guide/
+    - theme: alt
+      text: العربية
+      link: /ar/
 
 features:
   - title: Just arrived
@@ -43,6 +46,7 @@ This guide puts the practical steps in one place and links every fact to the off
 ## How it works
 
 - **A footnote on every claim.** Each paragraph points to the exact official page, with the month it was last checked.
+- **Two languages, same sources.** The English and Arabic pages cite the same pages.
 - **Open to corrections.** Every page has an edit link. If something is out of date, send a correction with the official page that shows the right information.
 
 ::: warning Not legal advice
