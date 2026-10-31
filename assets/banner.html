@@ -1,0 +1,161 @@
+<!doctype html>
+<!--
+  Source of assets/banner.png (1280 x 640). To render it again after npm install:
+  msedge --headless --hide-scrollbars --window-size=1280,640 --screenshot=assets/banner.png assets/banner.html
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Living in Qatar banner</title>
+<style>
+  @font-face {
+    font-family: 'Plex Arabic';
+    font-weight: 700;
+    src: url('../node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-700-normal.woff2') format('woff2');
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+  }
+  @font-face {
+    font-family: 'Plex Arabic';
+    font-weight: 400;
+    src: url('../node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-arabic-400-normal.woff2') format('woff2');
+    unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+  }
+  @font-face {
+    font-family: 'Plex Latin';
+    font-weight: 700;
+    src: url('../node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-700-normal.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: 'Plex Latin';
+    font-weight: 400;
+    src: url('../node_modules/@fontsource/ibm-plex-sans-arabic/files/ibm-plex-sans-arabic-latin-400-normal.woff2') format('woff2');
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1280px; height: 640px; overflow: hidden; }
+  body {
+    position: relative;
+    background: #8a1538;
+    color: #fff;
+    font-family: 'Plex Latin', 'Plex Arabic', 'Segoe UI', sans-serif;
+  }
+  .serration {
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 150px;
+    height: 640px;
+  }
+  .glow {
+    position: absolute;
+    right: -180px;
+    top: -220px;
+    width: 720px;
+    height: 720px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255,255,255,0.10), rgba(255,255,255,0) 65%);
+  }
+  .text {
+    position: absolute;
+    left: 220px;
+    top: 92px;
+    width: 600px;
+  }
+  .kicker {
+    font-size: 20px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.75;
+    margin-bottom: 18px;
+  }
+  h1 {
+    font-size: 84px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .ar {
+    font-family: 'Plex Arabic', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: 14px;
+    direction: rtl;
+    text-align: left;
+    opacity: 0.92;
+  }
+  .tagline {
+    font-size: 25px;
+    line-height: 1.45;
+    margin-top: 26px;
+    opacity: 0.92;
+  }
+  .chips {
+    position: absolute;
+    left: 220px;
+    bottom: 64px;
+    display: flex;
+    gap: 12px;
+  }
+  .chip {
+    padding: 9px 18px;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.14);
+    border: 1px solid rgba(255,255,255,0.28);
+    font-size: 19px;
+    white-space: nowrap;
+  }
+  .chip b { font-weight: 700; }
+  .card {
+    position: absolute;
+    right: 64px;
+    top: 150px;
+    width: 360px;
+    background: #fff;
+    color: #222;
+    border-radius: 18px;
+    padding: 26px 26px 22px;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.28);
+    transform: rotate(1.5deg);
+  }
+  .card .line { font-size: 21px; line-height: 1.45; }
+  .card sup { color: #8a1538; font-weight: 700; font-size: 15px; }
+  .card hr { border: none; border-top: 1px solid #e3dcdc; margin: 18px 0 14px; }
+  .card .src { font-size: 15px; line-height: 1.5; color: #555; }
+  .card .src u { color: #8a1538; text-decoration-color: rgba(138,21,56,0.4); }
+  .card .checked {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: rgba(138,21,56,0.08);
+    color: #8a1538;
+    font-size: 14px;
+    font-weight: 700;
+  }
+</style>
+</head>
+<body>
+  <svg class="serration" viewBox="0 0 150 640" preserveAspectRatio="none" aria-hidden="true">
+    <path fill="#fff" d="M0 0H110L150 35.6 110 71.1 150 106.7 110 142.2 150 177.8 110 213.3 150 248.9 110 284.4 150 320 110 355.6 150 391.1 110 426.7 150 462.2 110 497.8 150 533.3 110 568.9 150 604.4 110 640H0Z"/>
+  </svg>
+  <div class="glow"></div>
+
+  <div class="text">
+    <div class="kicker">A practical guide for residents</div>
+    <h1>Living in Qatar</h1>
+    <div class="ar">العيش في قطر</div>
+    <p class="tagline">In English and Arabic. Every claim links to the official page it comes from.</p>
+  </div>
+
+  <div class="card">
+    <div class="line">Do the medical checkup within thirty days of entering Qatar.<sup>[1]</sup></div>
+    <hr>
+    <div class="src">1. Ministry of Interior, Tips &amp; Guidelines</div>
+    <div class="checked">Last checked: 2026-10</div>
+  </div>
+
+  <div class="chips">
+    <span class="chip"><b>15</b> topics</span>
+    <span class="chip"><b>105</b> official sources</span>
+    <span class="chip">Free and open source</span>
+  </div>
+</body>
+</html>

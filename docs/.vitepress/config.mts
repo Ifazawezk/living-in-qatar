@@ -37,6 +37,8 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/living-in-qatar/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#8a1538' }],
     ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: `${site}og.png` }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }]
   ],
 
   markdown: {
