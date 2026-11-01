@@ -11,11 +11,11 @@ If you can open the official page, send a [correction](https://github.com/Ifazaw
 
 ## Most needed
 
-- **Labour law text.** The [work page](./guide/work-and-labour-rights) rests on a December 2021 booklet from the National Human Rights Committee, because we could not open the law text or a Ministry of Labour page. Please help us check it against Law No. 14 of 2004 and its later amendments.
-- **End-of-service gratuity amount.** The booklet gives the amount for domestic workers only. What does the law say for other private-sector workers?
+- **Labour law text.** The [work page](./guide/work-and-labour-rights) rests on a December 2021 booklet from the National Human Rights Committee, plus a January 2006 English copy of the law for the gratuity amount, because we could not open the current law text or a Ministry of Labour page. Please help us check both against Law No. 14 of 2004 and its later amendments.
+- **End-of-service gratuity.** The guide now gives the amount from Article 54 of that 2006 copy. Has Article 54 changed since then? Please link the current text.
 - **Current minimum wage.** Is the 2021 figure still correct in 2026?
 - **Metrash2 basics.** Where is the official download link, and how do you register or activate the app? The Ministry of Interior's Metrash2 pages did not load for us.
-- **Licensed exchange houses.** Where does Qatar Central Bank publish the current list, so readers can check a licence?
+- **Licensed exchange houses.** Where does Qatar Central Bank publish the current list, so readers can check a licence? QCB's older registration pages now lead to an error page.
 - **Rental law.** Law No. 4 of 2008 and its amendments: who registers a new lease, by when, what it costs, and what the law says about deposits.
 - **Health card and QID.** News reports say a valid QID replaced the printed health card for residents in April 2026. We could not find this on a Ministry of Public Health, HMC or PHCC page.
 - **Health insurance for residents.** The official pages we read describe the visitor scheme only. What applies to residents, and who pays?
@@ -78,8 +78,7 @@ If you can open the official page, send a [correction](https://github.com/Ifazaw
 
 ## Sites we could not read automatically
 
-Please check these in a normal browser. Some turn away automated visitors, and some did not answer from where we checked in October 2026. That does not mean they are down for you.
+Please check these in a normal browser. Some turn away automated visitors, and some did not answer from where we checked in October and November 2026. That does not mean they are down for you.
 
-- Asked for a bot check or refused the request: hukoomi.gov.qa, gco.gov.qa, mof.gov.qa.
+- Asked for a bot check or refused the request: hukoomi.gov.qa, gco.gov.qa, mof.gov.qa, almeezan.qa, imo.gov.qa.
 - Did not connect or dropped the connection: mol.gov.qa, qr.com.qa, diwan.gov.qa, cm.gov.qa, dohahamadairport.com.
-- Loaded with no readable text: almeezan.qa.

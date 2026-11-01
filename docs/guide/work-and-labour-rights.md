@@ -1,7 +1,7 @@
 ---
 title: Work and labour rights
-description: Contracts, hours, leave, wages, changing employers, leaving Qatar and how to raise a complaint, for private-sector workers.
-lastChecked: 2026-10
+description: Contracts, hours, leave, wages, the end-of-service gratuity, changing employers, leaving Qatar and how to raise a complaint, for private-sector workers.
+lastChecked: 2026-11
 ---
 
 # Work and labour rights
@@ -48,7 +48,47 @@ Your employer may not hold your passport unless you asked for that in writing, a
 
 You qualify after a full year of work or more, and it covers all your years of service. If you disagree with your employer about how many years count, you can complain to the Labour Relations Department.[^nhrc-booklet]
 
-The booklet does not give the amount for most private-sector workers, so this page leaves it out until it can be confirmed from the law text. For domestic workers, it says at least three weeks' wage for each year of service.[^nhrc-booklet]
+### How much it is
+
+This part comes from Article 54 of the Labour Law, not the booklet:[^labour-law]
+
+- You and your employer can agree the amount, but it cannot be less than three weeks' wage for each year of service.[^labour-law]
+- Part of a year counts in proportion.[^labour-law]
+- It is worked out on your last basic wage.[^labour-law]
+- Your basic wage is the pay for your work, including your annual increase. Allowances and bonuses come on top of it, so they do not count here.[^labour-law][^nhrc-booklet]
+- Your employer can deduct money you owe it from the gratuity.[^labour-law]
+- If your service ended for a reason other than those in Article 61 and you return to service within two months, it counts as unbroken.[^labour-law]
+
+For domestic workers, the booklet says at least three weeks' wage for each year of service.[^nhrc-booklet]
+
+The only copy of the law we could read is an English translation on the government portal, in a file from January 2006. The booklet shows that this law was amended in 2020, and we could not open the current text to check that Article 54 is unchanged. Confirm the amount with the Ministry of Labour before you rely on it.[^labour-law][^nhrc-booklet]
+
+### When you keep it, and when you can lose it
+
+You can end your contract without notice and keep your gratuity in these cases:[^nhrc-booklet]
+
+- Your employer breaks the contract or the labour law.[^nhrc-booklet]
+- Your employer assaults you or a member of your family, or commits an immoral act against you or them.[^nhrc-booklet]
+- Your employer misled you about the terms of the contract.[^nhrc-booklet]
+- There is a serious danger to your safety or health that your employer knew about and did not remove.[^nhrc-booklet]
+- A labour dispute settlement committee has issued a final decision in your favour.[^nhrc-booklet]
+
+Your employer can end your contract without notice and without the gratuity in these cases:[^nhrc-booklet]
+
+- You used a false identity or nationality, or gave false papers, documents or certificates.[^nhrc-booklet]
+- You made a mistake that caused the employer a serious financial loss.[^nhrc-booklet]
+- You broke the safety instructions more than once despite a written warning. The instructions must be written and displayed where you can see them.[^nhrc-booklet]
+- You broke your contract or the labour law more than once despite a written warning.[^nhrc-booklet]
+- You were under the influence of drugs or alcohol during work hours.[^nhrc-booklet]
+- You assaulted your employer, a manager or a colleague during work, or kept assaulting colleagues after a written warning.[^nhrc-booklet]
+- You were absent without a legitimate reason for more than seven days in a row, or for fifteen days on and off in a year.[^nhrc-booklet]
+- You were convicted, in a final judgment, of a crime of honour or honesty.[^nhrc-booklet]
+
+The 2006 copy of the law also lists revealing the company's secrets, which the booklet does not mention.[^labour-law]
+
+If you think a dismissal was arbitrary or against the law, you can appeal it before the Labour Disputes Settlement Committee. If it agrees, it either cancels the dismissal, returns you to work and awards your wages for the time you lost, or orders fair compensation.[^nhrc-booklet]
+
+Do not ignore a dismissal under Article 61. If you do not challenge it, or you challenge it and lose, you cannot return to work until four years after you left Qatar.[^nhrc-booklet]
 
 ## Changing employers
 
@@ -60,6 +100,8 @@ You can apply to change employer before your contract ends, without a certificat
 4. The case then moves to the Ministry of Interior, and the new employer applies for your new Qatar ID through Metrash.[^nhrc-booklet]
 
 The process is free for you, so do not pay anyone for it. If your employer is not meeting its legal duties, including paying your wages, you can change without notice, and you must file a complaint with the Labour Relations Department.[^nhrc-booklet]
+
+If you have worked at least one year, your current employer owes you your gratuity when you change jobs, along with your accumulated annual leave and any other benefits in your contract.[^nhrc-booklet]
 
 Check your contract for a non-competition clause. It can only apply if your work gives you access to clients or business secrets, and it cannot last more than one year.[^nhrc-booklet]
 
@@ -86,5 +128,6 @@ See also: [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](.
 
 ## Sources
 
-[^nhrc-booklet]: National Human Rights Committee, [Worker's Pocket Booklet, sixth edition, December 2021](https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf). Last checked: 2026-10.
+[^nhrc-booklet]: National Human Rights Committee, [Worker's Pocket Booklet, sixth edition, December 2021](https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf). Last checked: 2026-11.
+[^labour-law]: Government of Qatar portal, [Labour Law of the State of Qatar, issued 19 May 2004, English translation, file from January 2006](https://portal.www.gov.qa/wps/wcm/connect/5f30f680423f8a149631df3cb857e4ca/Qatar+Labor+Law.pdf?MOD=AJPERES). Last checked: 2026-11.
 [^nhrc-home]: National Human Rights Committee, [Home page, contact and complaints section](https://www.nhrc-qa.org/). Last checked: 2026-10.

@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Official sources](https://img.shields.io/badge/official_sources-105-8a1538)](docs/sourcing.md)
+[![Official sources](https://img.shields.io/badge/official_sources-106-8a1538)](docs/sourcing.md)
 [![Topics](https://img.shields.io/badge/topics-15-8a1538)](#whats-inside)
 [![Languages](https://img.shields.io/badge/languages-English_%7C_Arabic-2f6f4f)](https://ifazawezk.github.io/living-in-qatar/ar/)
 [![Last checked](https://img.shields.io/badge/last_checked-2026--10-555555)](#how-we-source-things)
@@ -44,7 +44,7 @@ This guide is built on one rule: **if we cannot point to an official page for a 
 
 ## What's inside
 
-15 topics, each in English and Arabic, backed by 105 official pages and 260 source citations.
+15 topics, each in English and Arabic, backed by 106 official pages and 262 source citations.
 
 | Topic | بالعربية | Sources |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ This guide is built on one rule: **if we cannot point to an official page for a 
 | [Health care and insurance](docs/guide/health.md) | [الرعاية الصحية والتأمين](docs/ar/guide/health.md) | 13 |
 | [Phone and internet](docs/guide/phone-and-internet.md) | [الهاتف والإنترنت](docs/ar/guide/phone-and-internet.md) | 11 |
 | [Banking and money transfers](docs/guide/banking-and-money.md) | [البنوك وتحويل الأموال](docs/ar/guide/banking-and-money.md) | 7 |
-| [Work and labour rights](docs/guide/work-and-labour-rights.md) | [العمل وحقوق العمال](docs/ar/guide/work-and-labour-rights.md) | 2 |
+| [Work and labour rights](docs/guide/work-and-labour-rights.md) | [العمل وحقوق العمال](docs/ar/guide/work-and-labour-rights.md) | 3 |
 | [Cost of living basics](docs/guide/cost-of-living.md) | [أساسيات تكاليف المعيشة](docs/ar/guide/cost-of-living.md) | 8 |
 | [Public holidays and Ramadan working hours](docs/guide/holidays-and-ramadan.md) | [العطلات الرسمية وساعات العمل في رمضان](docs/ar/guide/holidays-and-ramadan.md) | 5 |
 | [Driving licence and traffic rules](docs/guide/driving.md) | [رخصة القيادة وقواعد المرور](docs/ar/guide/driving.md) | 9 |
@@ -77,7 +77,7 @@ Plus a [printable first 30 days checklist](docs/checklist.md), and a [list of ev
 
 Read the full rules in [How we source things](docs/sourcing.md).
 
-**A note on age.** Official does not always mean recent. Some Ministry of Interior service pages are old, and the labour page rests on a National Human Rights Committee booklet from December 2021, because the law text and Ministry of Labour pages could not be opened when this was written. Those pages say so. Please read them with that in mind, and help us replace them with something newer.
+**A note on age.** Official does not always mean recent. Some Ministry of Interior service pages are old, and the labour page rests on a National Human Rights Committee booklet from December 2021, plus a January 2006 English copy of the law for the gratuity amount, because the current law text and Ministry of Labour pages could not be opened when this was written. Those pages say so. Please read them with that in mind, and help us replace them with something newer.
 
 ## Screenshots
 
@@ -130,8 +130,8 @@ The lint fails if a paragraph, list item or table row has no official source, if
 The link checker sorts every link into `ok`, `moved`, `changed` (the title differs from [the saved baseline](scripts/link_baseline.json)), `blocked` (the site turned away an automated visitor, so a person must check it), `dead` or `unreachable`. Latest run:
 
 ```text
-checking 105 links on 23 sites
-0 dead, 1 unreachable, 0 moved, 0 changed, 5 blocked, 99 ok (105 links)
+checking 106 links on 24 sites
+0 dead, 3 unreachable, 0 moved, 0 changed, 5 blocked, 98 ok (106 links)
 ```
 
 `blocked` and `unreachable` do not mean the page is gone. Some sites turn away scripts or did not answer from the network this ran on, so those links need a person with a browser.
