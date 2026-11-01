@@ -1,7 +1,7 @@
 ---
 title: Work and labour rights
-description: Contracts, hours, leave, wages, changing employers, leaving Qatar and how to raise a complaint, for private-sector workers.
-lastChecked: 2026-10
+description: Contracts, hours, leave, wages, the end-of-service gratuity, changing employers, leaving Qatar and how to raise a complaint, for private-sector workers.
+lastChecked: 2026-11
 ---
 
 # Work and labour rights
@@ -48,7 +48,20 @@ Your employer may not hold your passport unless you asked for that in writing, a
 
 You qualify after a full year of work or more, and it covers all your years of service. If you disagree with your employer about how many years count, you can complain to the Labour Relations Department.[^nhrc-booklet]
 
-The booklet does not give the amount for most private-sector workers, so this page leaves it out until it can be confirmed from the law text. For domestic workers, it says at least three weeks' wage for each year of service.[^nhrc-booklet]
+### How much it is
+
+This part comes from Article 54 of the Labour Law, not the booklet:[^labour-law]
+
+- You and your employer can agree the amount, but it cannot be less than three weeks' wage for each year of service.[^labour-law]
+- Part of a year counts in proportion.[^labour-law]
+- It is worked out on your last basic wage.[^labour-law]
+- Your basic wage is the pay for your work, including your annual increase. Allowances and bonuses come on top of it, so they do not count here.[^labour-law][^nhrc-booklet]
+- Your employer can deduct money you owe it from the gratuity.[^labour-law]
+- If your service ended for a reason other than those in Article 61 and you return to service within two months, it counts as unbroken.[^labour-law]
+
+For domestic workers, the booklet says at least three weeks' wage for each year of service.[^nhrc-booklet]
+
+The only copy of the law we could read is an English translation on the government portal, in a file from January 2006. The booklet shows that this law was amended in 2020, and we could not open the current text to check that Article 54 is unchanged. Confirm the amount with the Ministry of Labour before you rely on it.[^labour-law][^nhrc-booklet]
 
 ## Changing employers
 
@@ -86,5 +99,6 @@ See also: [Residence permit and QID](./residence-permit-and-qid.md), [Metrash](.
 
 ## Sources
 
-[^nhrc-booklet]: National Human Rights Committee, [Worker's Pocket Booklet, sixth edition, December 2021](https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf). Last checked: 2026-10.
+[^nhrc-booklet]: National Human Rights Committee, [Worker's Pocket Booklet, sixth edition, December 2021](https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf). Last checked: 2026-11.
+[^labour-law]: Government of Qatar portal, [Labour Law of the State of Qatar, issued 19 May 2004, English translation, file from January 2006](https://portal.www.gov.qa/wps/wcm/connect/5f30f680423f8a149631df3cb857e4ca/Qatar+Labor+Law.pdf?MOD=AJPERES). Last checked: 2026-11.
 [^nhrc-home]: National Human Rights Committee, [Home page, contact and complaints section](https://www.nhrc-qa.org/). Last checked: 2026-10.
