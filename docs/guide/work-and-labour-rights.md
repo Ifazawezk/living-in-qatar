@@ -63,6 +63,33 @@ For domestic workers, the booklet says at least three weeks' wage for each year 
 
 The only copy of the law we could read is an English translation on the government portal, in a file from January 2006. The booklet shows that this law was amended in 2020, and we could not open the current text to check that Article 54 is unchanged. Confirm the amount with the Ministry of Labour before you rely on it.[^labour-law][^nhrc-booklet]
 
+### When you keep it, and when you can lose it
+
+You can end your contract without notice and keep your gratuity in these cases:[^nhrc-booklet]
+
+- Your employer breaks the contract or the labour law.[^nhrc-booklet]
+- Your employer assaults you or a member of your family, or commits an immoral act against you or them.[^nhrc-booklet]
+- Your employer misled you about the terms of the contract.[^nhrc-booklet]
+- There is a serious danger to your safety or health that your employer knew about and did not remove.[^nhrc-booklet]
+- A labour dispute settlement committee has issued a final decision in your favour.[^nhrc-booklet]
+
+Your employer can end your contract without notice and without the gratuity in these cases:[^nhrc-booklet]
+
+- You used a false identity or nationality, or gave false papers, documents or certificates.[^nhrc-booklet]
+- You made a mistake that caused the employer a serious financial loss.[^nhrc-booklet]
+- You broke the safety instructions more than once despite a written warning. The instructions must be written and displayed where you can see them.[^nhrc-booklet]
+- You broke your contract or the labour law more than once despite a written warning.[^nhrc-booklet]
+- You were under the influence of drugs or alcohol during work hours.[^nhrc-booklet]
+- You assaulted your employer, a manager or a colleague during work, or kept assaulting colleagues after a written warning.[^nhrc-booklet]
+- You were absent without a legitimate reason for more than seven days in a row, or for fifteen days on and off in a year.[^nhrc-booklet]
+- You were convicted, in a final judgment, of a crime of honour or honesty.[^nhrc-booklet]
+
+The 2006 copy of the law also lists revealing the company's secrets, which the booklet does not mention.[^labour-law]
+
+If you think a dismissal was arbitrary or against the law, you can appeal it before the Labour Disputes Settlement Committee. If it agrees, it either cancels the dismissal, returns you to work and awards your wages for the time you lost, or orders fair compensation.[^nhrc-booklet]
+
+Do not ignore a dismissal under Article 61. If you do not challenge it, or you challenge it and lose, you cannot return to work until four years after you left Qatar.[^nhrc-booklet]
+
 ## Changing employers
 
 You can apply to change employer before your contract ends, without a certificate of objection from your current employer.[^nhrc-booklet]
@@ -73,6 +100,8 @@ You can apply to change employer before your contract ends, without a certificat
 4. The case then moves to the Ministry of Interior, and the new employer applies for your new Qatar ID through Metrash.[^nhrc-booklet]
 
 The process is free for you, so do not pay anyone for it. If your employer is not meeting its legal duties, including paying your wages, you can change without notice, and you must file a complaint with the Labour Relations Department.[^nhrc-booklet]
+
+If you have worked at least one year, your current employer owes you your gratuity when you change jobs, along with your accumulated annual leave and any other benefits in your contract.[^nhrc-booklet]
 
 Check your contract for a non-competition clause. It can only apply if your work gives you access to clients or business secrets, and it cannot last more than one year.[^nhrc-booklet]
 
