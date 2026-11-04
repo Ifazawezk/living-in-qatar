@@ -5,46 +5,22 @@
 <br><br>
 
 [![Official sources](https://img.shields.io/badge/official_sources-106-8a1538)](docs/sourcing.md)
-[![Topics](https://img.shields.io/badge/topics-15-8a1538)](#whats-inside)
-[![Languages](https://img.shields.io/badge/languages-English_%7C_Arabic-2f6f4f)](https://ifazawezk.github.io/living-in-qatar/ar/)
-[![Last checked](https://img.shields.io/badge/last_checked-2026--10-555555)](#how-we-source-things)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 [![Content license](https://img.shields.io/badge/content-CC_BY_4.0-lightgrey)](LICENSE-CONTENT)
 [![Code license](https://img.shields.io/badge/code-MIT-blue)](LICENSE)
 
-**A free, practical guide to living in Qatar, in English and Arabic.<br>Every claim links to the official page it comes from, with the month it was last checked.**
-
-[Read the guide](https://ifazawezk.github.io/living-in-qatar/) &nbsp;·&nbsp; [اقرأ الدليل بالعربية](https://ifazawezk.github.io/living-in-qatar/ar/) &nbsp;·&nbsp; [First 30 days checklist](https://ifazawezk.github.io/living-in-qatar/checklist) &nbsp;·&nbsp; [Help wanted](docs/help-wanted.md)
-
 </div>
 
-## Start here
+A free guide to living in Qatar as a resident, in English and Arabic. Every claim links to the official page it comes from, with the month it was last checked.
 
-| You are... | Read these, in this order | بالعربية |
-| --- | --- | --- |
-| **Just arrived** | [Arriving and visas](docs/guide/arriving-and-visas.md), [Residence permit and QID](docs/guide/residence-permit-and-qid.md), [Metrash](docs/guide/metrash.md), [First 30 days checklist](docs/checklist.md) | [وصلت حديثًا](docs/ar/guide/arriving-and-visas.md) |
-| **Looking for a job, or just started one** | [Work and labour rights](docs/guide/work-and-labour-rights.md), [Banking and money transfers](docs/guide/banking-and-money.md), [Public holidays and Ramadan hours](docs/guide/holidays-and-ramadan.md) | [تبحث عن عمل](docs/ar/guide/work-and-labour-rights.md) |
-| **Bringing your family** | [Family visas](docs/guide/family-visas.md), [Education and schools](docs/guide/education.md), [Health care and insurance](docs/guide/health.md) | [ستستقدم عائلتك](docs/ar/guide/family-visas.md) |
-| **Renting a home** | [Housing and renting](docs/guide/housing-and-utilities.md), [Phone and internet](docs/guide/phone-and-internet.md), [Cost of living basics](docs/guide/cost-of-living.md) | [تستأجر سكنًا](docs/ar/guide/housing-and-utilities.md) |
+[Read the guide](https://ifazawezk.github.io/living-in-qatar/) · [اقرأ الدليل بالعربية](https://ifazawezk.github.io/living-in-qatar/ar/) · [First 30 days checklist](https://ifazawezk.github.io/living-in-qatar/checklist) · [Help wanted](docs/help-wanted.md)
 
-## Why
+It is general information, not legal, immigration, medical or financial advice, and it is not run by or connected to any government body. Rules, fees and procedures change and the guide can be wrong or out of date, so confirm on the linked official page before you act, and for anything important ask the authority directly. The authors accept no liability for decisions based on it.
 
-If you are new in Qatar, you get your answers from group chats, forum threads and blog posts. Some of that advice is good. A lot of it is years old, and almost none of it says where it came from. The official pages exist, but they are spread across many ministries and sites, and you have to know where to look.
+## Topics
 
-This guide is built on one rule: **if we cannot point to an official page for a fact, the fact does not go in.**
+If you just arrived, start with arriving and visas, the residence permit and QID, Metrash and the [first 30 days checklist](docs/checklist.md).
 
-| | Forums and group chats | Blogs and explainers | Relocation and insurer guides | This guide |
-| --- | --- | --- | --- | --- |
-| Each claim links to the official page | Rarely | Sometimes | Rarely | **Yes, enforced by a script** |
-| Shows when each source was last checked | No | Publish date at best | No | **Yes, on every source** |
-| English and Arabic with the same sources | Mixed | Usually one language | Usually English | **Yes, enforced by a script** |
-| Readers can correct it | In replies | No | No | **Yes, by pull request** |
-| Admits what it could not confirm | No | No | No | **Yes, in [Help wanted](docs/help-wanted.md)** |
-| Free, no ads, no sign-up | Yes | Often ads | Often lead forms | **Yes** |
-
-## What's inside
-
-15 topics, each in English and Arabic, backed by 106 official pages and 262 source citations.
+There are 15 topics, each in English and Arabic, backed by 106 official pages and 262 source citations.
 
 | Topic | بالعربية | Sources |
 | --- | --- | --- |
@@ -64,44 +40,47 @@ This guide is built on one rule: **if we cannot point to an official page for a 
 | [Education and schools](docs/guide/education.md) | [التعليم والمدارس](docs/ar/guide/education.md) | 9 |
 | [Emergencies and important numbers](docs/guide/emergencies.md) | [الطوارئ والأرقام المهمة](docs/ar/guide/emergencies.md) | 11 |
 
-Plus a [printable first 30 days checklist](docs/checklist.md), and a [list of everything we could not confirm yet](docs/help-wanted.md).
+The [checklist](docs/checklist.md) prints, and [Help wanted](docs/help-wanted.md) lists everything that couldn't be confirmed yet.
 
-## How we source things
+Some official sources are old. The labour page rests on a National Human Rights Committee booklet from December 2021, plus a January 2006 English copy of the law for the gratuity amount, because the current law text and Ministry of Labour pages couldn't be opened when it was written. Check the current labour law text before relying on that page. Some Ministry of Interior service pages are old too, and the pages that depend on them say so.
 
-1. **Official sources only.** Government of Qatar sites, public bodies for their own services, and licensed operators for their own services. The full list is in [`scripts/official_domains.txt`](scripts/official_domains.txt). News, forums, blogs, relocation firms and law firm articles are never cited.
-2. **Exact page.** Each claim has a footnote to the specific page it came from, and that page was opened and read before it was cited.
-3. **Dated.** Each footnote ends with the month it was last checked.
-4. **Fees are linked, not copied.** We usually point to the official fee page, because amounts change.
-5. **Conflicts are shown, not hidden.** When two official pages disagree, such as on passport validity, the guide says so and cites both.
-6. **Gaps are public.** Anything we could not confirm is on the [Help wanted](docs/help-wanted.md) list instead of being guessed.
+## Sources
 
-Read the full rules in [How we source things](docs/sourcing.md).
+Only official pages are cited: Government of Qatar sites, and public bodies and licensed operators for their own services. The full list is in [`scripts/official_domains.txt`](scripts/official_domains.txt). News, forums, blogs, relocation firms and law firm articles are never cited.
 
-**A note on age.** Official does not always mean recent. Some Ministry of Interior service pages are old, and the labour page rests on a National Human Rights Committee booklet from December 2021, plus a January 2006 English copy of the law for the gratuity amount, because the current law text and Ministry of Labour pages could not be opened when this was written. Those pages say so. Please read them with that in mind, and help us replace them with something newer.
+Each claim has a footnote to the exact page it came from, which was opened and read before it was cited, and each footnote ends with the month it was last checked (the latest round was 2026-10). Fees are usually linked rather than copied, because amounts change. When two official pages disagree, as they do on passport validity, the guide says so and cites both. Anything that couldn't be confirmed goes on the Help wanted list instead of being guessed. The full rules are in [How we source things](docs/sourcing.md).
 
-## Screenshots
+Two scripts, both standard library Python, check this:
 
-Real captures of the built site.
+```bash
+python scripts/lint_content.py     # fails if any paragraph has no official source
+python scripts/check_links.py      # visits every source link and reports problems
+```
+
+The lint fails if a paragraph, list item or table row has no official source, if a footnote has no date or links to a domain that isn't on the list, or if the English and Arabic pages cite different sources.
+
+The link checker sorts every link into `ok`, `moved`, `changed` (the title differs from [the saved baseline](scripts/link_baseline.json)), `blocked` (the site turned away an automated visitor), `dead` or `unreachable`. Latest run:
+
+```text
+checking 106 links on 24 sites
+0 dead, 3 unreachable, 0 moved, 0 changed, 5 blocked, 98 ok (106 links)
+```
+
+`blocked` and `unreachable` don't mean the page is gone. Some sites turn away scripts or didn't answer from the network the check ran on, so a person has to open those links in a browser.
+
+## The site
 
 | Desktop, English | Desktop, Arabic |
 | --- | --- |
 | ![Guide page in English with last checked date and footnotes](assets/screenshots/desktop-en-topic.png) | ![Guide page in Arabic, laid out right to left](assets/screenshots/desktop-ar-topic.png) |
 
-| Arabic search, typed with ه instead of ة | Dark mode |
+| Arabic search, typed with ه instead of ة | Phone, Arabic, dark |
 | --- | --- |
-| ![Arabic search results for a query spelled without ta marbuta](assets/screenshots/desktop-ar-search.png) | ![Topic index in dark mode](assets/screenshots/desktop-dark.png) |
+| ![Arabic search results for a query spelled without ta marbuta](assets/screenshots/desktop-ar-search.png) | ![Arabic home page on a phone in dark mode](assets/screenshots/phone-ar-dark.png) |
 
-| Phone, English | Phone, Arabic | Phone, Arabic, dark | Printed checklist |
-| --- | --- | --- | --- |
-| ![English page on a phone](assets/screenshots/phone-en-topic.png) | ![Arabic page on a phone](assets/screenshots/phone-ar-topic.png) | ![Arabic home page on a phone in dark mode](assets/screenshots/phone-ar-dark.png) | ![Checklist in its print layout](assets/screenshots/print-checklist.png) |
+The Arabic pages are laid out right to left with their own typeface and interface text, not mirrored from English. Search runs in your browser and ignores differences in hamza, ta marbuta, alif maqsura, diacritics and the definite article, and it reads ٩٩٩ as 999. The site works on a phone and has a dark mode. Every page has an edit link and a "Report something out of date" link.
 
-## Features
-
-- **Real right-to-left Arabic,** not a mirrored English page, with its own typeface and interface text.
-- **Search that understands Arabic.** It runs in your browser and ignores differences in hamza, ta marbuta, alif maqsura, diacritics and the definite article, and it reads ٩٩٩ as 999.
-- **Works on a phone,** with dark mode and no third-party scripts or fonts.
-- **Printable checklist** that remembers your ticks in your own browser.
-- **Edit link on every page,** plus a one-click report for anything out of date.
+There are no ads, no sign-up, no analytics, no cookies and no third-party scripts or fonts. Your theme and checklist ticks are stored in your own browser.
 
 ## Run it locally
 
@@ -116,29 +95,9 @@ npm test        # search tests against the build, then the Python tests
 
 The site is set up for GitHub Pages at `/living-in-qatar/`.
 
-## Checking the sources
-
-Two scripts keep the guide honest. Both use only the Python standard library.
-
-```bash
-python scripts/lint_content.py     # fails if any paragraph has no official source
-python scripts/check_links.py      # visits every source link and reports problems
-```
-
-The lint fails if a paragraph, list item or table row has no official source, if a footnote has no date or links to an unlisted domain, or if the English and Arabic pages cite different sources.
-
-The link checker sorts every link into `ok`, `moved`, `changed` (the title differs from [the saved baseline](scripts/link_baseline.json)), `blocked` (the site turned away an automated visitor, so a person must check it), `dead` or `unreachable`. Latest run:
-
-```text
-checking 106 links on 24 sites
-0 dead, 3 unreachable, 0 moved, 0 changed, 5 blocked, 98 ok (106 links)
-```
-
-`blocked` and `unreachable` do not mean the page is gone. Some sites turn away scripts or did not answer from the network this ran on, so those links need a person with a browser.
-
 ## Contributing
 
-Corrections from people who live here are what keep this useful. The quickest way is the edit link at the bottom of any page. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first, because every change needs an official source.
+Corrections from people who live here keep the guide useful. Every change needs an official source, so read [CONTRIBUTING.md](CONTRIBUTING.md) first. The quickest route is the edit link at the bottom of any page. To report a mistake, use "Report something out of date" at the top of the page and include the official link that shows the right information.
 
 Good first contributions:
 
@@ -146,7 +105,7 @@ Good first contributions:
 - Open the `blocked` links in a browser and confirm they still say what the guide says.
 - Improve a sentence of Arabic that reads like a translation.
 
-## Roadmap
+Planned:
 
 - [ ] Check the labour page against the law text and current Ministry of Labour pages
 - [ ] Close the top gaps in Help wanted: Metrash registration, licensed exchange houses, rental law, resident health insurance
@@ -156,38 +115,8 @@ Good first contributions:
 - [ ] A downloadable PDF of the whole guide
 - [ ] More languages for the communities who need this most, starting with Hindi, Urdu, Malayalam and Filipino
 
-## FAQ
-
-**Is this an official government website?**
-No. It is a community project and is not run by, or connected to, any government body.
-
-**Can I rely on this for a legal or financial decision?**
-Use it to find the right official page, then read that page. For anything important, ask the authority directly.
-
-**Why does a topic I need look thin?**
-Because we only publish what we could confirm on an official page. A short page with sources is more useful than a long page you cannot check. If you can find the official page, please add it.
-
-**Why are there so few fees and fines?**
-They change often, and an old amount can cost you money. We link to the official page instead.
-
-**Why do some sources look old?**
-Some official pages are old and are still the only ones we could read. Where it matters, the guide says so.
-
-**Does the site track me?**
-It has no analytics, no cookies and no third-party scripts or fonts. Your theme and checklist ticks are stored in your own browser.
-
-**Can I copy this into my own website or app?**
-Yes. The content is CC BY 4.0, so credit the guide and link back. Please keep the sources.
-
-**I found a mistake. What do I do?**
-Use "Report something out of date" at the top of the page, or the edit link at the bottom. Include the official link that shows the right information.
-
-## Disclaimer
-
-This guide is general information, not legal, immigration, medical or financial advice. Rules, fees and procedures change, and the guide can be wrong or out of date. Always confirm on the official page linked in the sources before you act. The authors accept no liability for decisions based on it.
-
 ## License
 
-Content in `docs/` is licensed under [CC BY 4.0](LICENSE-CONTENT). Code is licensed under the [MIT License](LICENSE).
+Content in `docs/` is licensed under [CC BY 4.0](LICENSE-CONTENT): you can reuse it if you credit the guide, link back and keep the sources. Code is licensed under the [MIT License](LICENSE).
 
 Copyright (c) 2026 Mohaned Elhagar
